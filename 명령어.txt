@@ -1,0 +1,22 @@
+git add 파일 이름 or *(all) >> commit 파일 범주 설정
+
+git commit -m " 내용 " >> git upload
+
+git push origin master  >> git hut upload
+
+git status >> git 상태 확인
+
+git log >> log 확인
+
+mkdir 이름  >> 폴더 생성
+
+vim 이름.txt >> 텍스트 생성
+
+vim 이름.cpp >> 코딩파일 생성
+
+./a.out or ./파일이름 >> 파일실행
+
+gcc 파일이름.cpp >> 컴파일
+
+gcc -o (코딩한파일) (컴파일할파일.cpp) >> 컴파일 파일 이름 설정
+
